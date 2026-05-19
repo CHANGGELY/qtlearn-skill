@@ -1,6 +1,10 @@
-# A股量化培训大师Skill
+<p align="center">
+  <img src="assets/logo.jpg" alt="QT Learn Logo" width="200"/>
+</p>
 
-一个面向零基础到进阶用户的 A 股量化学习与实战训练 Skill。
+<h1 align="center">A股量化培训大师Skill</h1>
+
+<p align="center">一个面向零基础到进阶用户的 A 股量化学习与实战训练 Skill</p>
 
 ## 一、项目定位
 
